@@ -6,7 +6,8 @@ import (
 	"time"
 
 	"github.com/hyacinthus/x/xlog"
-	"github.com/jinzhu/gorm"
+	//"github.com/jinzhu/gorm"
+	"gorm.io/gorm"
 )
 
 var log = xlog.Get()
