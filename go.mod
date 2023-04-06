@@ -23,4 +23,5 @@ require (
 	golang.org/x/crypto v0.0.0-20200317142112-1b76d66859c6 // indirect
 	golang.org/x/sys v0.0.0-20200317113312-5766fd39f98d // indirect
 	gopkg.in/yaml.v2 v2.2.8
+	gorm.io/gorm v1.24.6
 )
